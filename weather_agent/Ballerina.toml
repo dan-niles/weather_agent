@@ -7,3 +7,4 @@ title = "Weather Agent"
 
 [build-options]
 sticky = true
+observabilityIncluded = true
